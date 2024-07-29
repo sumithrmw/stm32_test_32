@@ -1,6 +1,6 @@
 #include <stdint.h>
 #include <stdio.h>
-#include "stm32f4xx.h"
+#include "vendor/CMSIS/Device/ST/STM32F4/Include/stm32f410rx.h"
 #include "usart.h"
 
 #define LED_PIN 5
